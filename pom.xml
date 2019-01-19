@@ -11,6 +11,8 @@
     <groupId>job3</groupId>
     <artifactId>devc</artifactId>
     <version>shtp</version>
+    <packaging>jar</packaging>
+         
     <properties>
         <!-- Dependency and plugin versions. -->
         <com.gitb.version>1.5.0</com.gitb.version>
