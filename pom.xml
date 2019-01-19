@@ -11,7 +11,7 @@
     <groupId>job3</groupId>
     <artifactId>devc</artifactId>
     <version>shtp</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
          
     <properties>
         <!-- Dependency and plugin versions. -->
